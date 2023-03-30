@@ -4,6 +4,11 @@
 ![Prettier](https://github.com/askrella/whatsapp-chatgpt/actions/workflows/prettier.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/whatsapp-chatgpt-1)](https://repl.it/github/MagoInterior/whatsapp-chatgpt-1) 
+
+
 [![Discord Invite](https://dcbadge.vercel.app/api/server/9VJaRXKwd3)](https://discord.gg/9VJaRXKwd3)
 
 This WhatsApp bot uses OpenAI's GPT and DALL-E 2 to respond to user inputs.
